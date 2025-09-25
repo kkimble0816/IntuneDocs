@@ -37,7 +37,7 @@ There are two methods you can use to configure URLs:
 
 - **Configure URLs** - Use Apple’s built-in web filter that looks for adult terms like profanity or sexually explicit language. This function evaluates each web page as it is loaded and attempts to identify and block unsuitable content. You can also configure URLs that are not checked by the filter, or URLs that are blocked, regardless of the filter settings.
 
-- **Specific websites only** (for the Safari web browser only) - These URLs are added to the Safari browser’s bookmarks. The user is **only** allowed to visit these sites; no other sites can be accessed. Use this option only if you know the exact list of URLs that users can access.
+- **Specific websites only** (for the Safari web browser bookmarks only) - These URLs are added to the Safari browser’s bookmarks (**NOTE** The policy also applies to the Edge for iOS browser but the bookmark will **NOT** apply) . The user is **only** allowed to visit these sites; no other sites can be accessed. Use this option only if you know the exact list of URLs that users can access.
 If you do not specify any URLs, then end users cannot access any websites except for microsoft.com, microsoft.net, and apple.com.
 
 ## Get started
